@@ -9,3 +9,5 @@ cursor.execute("""CREATE TABLE IF NOT EXISTS contas_bancarias (
               saldo FLOAT NOT NULL,
               cpf TEXT NOT NULL UNIQUE,
               )""")
+
+EM ANDAMENTO...(TO SEM TEMPO
